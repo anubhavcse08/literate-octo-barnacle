@@ -1,0 +1,13 @@
+.ui.massive.input {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.ui.fluid.container {
+    /* border: 1px solid #d3d3d3; */
+    width: 80%;
+    margin: 10px;
+    /* border-radius: .28571429rem; */
+    padding: 8px;
+}
